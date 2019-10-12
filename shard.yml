@@ -1,0 +1,13 @@
+name: listdb-crystal
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  listdb-crystal:
+    main: src/listdb-crystal.cr
+
+crystal: 0.31.1
+
+license: MIT
